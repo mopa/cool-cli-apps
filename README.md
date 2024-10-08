@@ -60,3 +60,10 @@ The users that love use the terminal, know that there are a lot of CLI apps that
 | File Viewing 👀 | [tabview](https://github.com/shshemi/tabiew) |
 | | [fx](https://fx.wtf/) |
 | | [otree](https://github.com/fioncat/otree) |
+
+
+## Resources to find more CLI apps
+
+- [Terminal Trove](https://terminaltrove.com/language/rust/)
+- [GitHub - sts10/rust-command-line-utilities](https://github.com/sts10/rust-command-line-utilities)
+- [CLI tools you won't be able to live without](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
