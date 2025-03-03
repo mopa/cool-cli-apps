@@ -57,6 +57,10 @@ The users that love use the terminal, know that there are a lot of CLI apps that
 | Search and Replace 🔎 | [serpl](https://github.com/yassinebridi/serpl) |
 | File Encryption 🔐 | [age](https://github.com/FiloSottile/age) |
 | API Client 🌐 | [ATAC](https://github.com/Julien-cpsn/ATAC) |
+| | [Posting](https://posting.sh/) |
+| | [HTTPie](https://github.com/httpie/cli) |
+| | [curlie](https://github.com/rs/curlie) |
+| | [xh](https://github.com/ducaale/xh) |
 | File Viewing 👀 | [tabview](https://github.com/shshemi/tabiew) |
 | | [fx](https://fx.wtf/) |
 | | [otree](https://github.com/fioncat/otree) |
