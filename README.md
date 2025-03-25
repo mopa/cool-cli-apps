@@ -50,6 +50,7 @@ The users that love use the terminal, know that there are a lot of CLI apps that
 | | [termshark](https://github.com/gcla/termshark) |
 | | [sshs](https://github.com/quantumsheep/sshs) |
 | System Maintenance 🔧 | [topgrade](https://github.com/topgrade-rs/topgrade) |
+| | [systemctl-tui](https://github.com/rgwood/systemctl-tui) |
 | Code Analysis 📊 | [tokei](https://github.com/XAMPPRocky/tokei) |
 | Benchmarking ⏱️ | [hyperfine](https://github.com/sharkdp/hyperfine) |
 | File Transfer 📤📥 | [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) |
