@@ -6,13 +6,14 @@ The users that love use the terminal, know that there are a lot of CLI apps that
 |----------|-----|
 | File Management 📁 | [eza](https://github.com/eza-community/eza) |
 | | [fd](https://github.com/sharkdp/fd) |
-| | [yazi](https://github.com/sxyazi/yazi) |
-| | [trash-cli](https://github.com/andreafrancia/trash-cli) |
-| | [lsd](https://github.com/lsd-rs/lsd) |
-| | [lf](https://github.com/gokcehan/lf) |
 | | [broot](https://github.com/Canop/broot) |
 | | [rip](https://github.com/nivekuil/rip) |
 | | [xcp](https://github.com/tarka/xcp) |
+| | [trash-cli](https://github.com/andreafrancia/trash-cli) |
+| | [yazi](https://github.com/sxyazi/yazi) |
+| | [superfile](https://github.com/yorukot/superfile) |
+| | [lsd](https://github.com/lsd-rs/lsd) |
+| | [lf](https://github.com/gokcehan/lf) |
 | | [nnn](https://github.com/jarun/nnn) |
 | Text Processing 📝 | [bat](https://github.com/sharkdp/bat) |
 | | [ripgrep](https://github.com/BurntSushi/ripgrep) |
@@ -35,6 +36,7 @@ The users that love use the terminal, know that there are a lot of CLI apps that
 | | [github-copilot-cli](https://www.npmjs.com/package/@githubnext/github-copilot-cli) |
 | Docker Tools 🐳 | [lazydocker](https://github.com/jesseduffield/lazydocker) |
 | Fuzzy Finders 🔍 | [fzf](https://github.com/junegunn/fzf) |
+| | [television](https://github.com/alexpasmantier/television) |
 | Terminal Multiplexers 🖥️ | [tmux](https://github.com/tmux/tmux) |
 | | [zellij](https://github.com/zellij-org/zellij) |
 | Navigation 🧭 | [zoxide](https://github.com/ajeetdsouza/zoxide) |
