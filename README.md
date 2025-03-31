@@ -35,6 +35,7 @@ The users that love use the terminal, know that there are a lot of CLI apps that
 | | [gh](https://github.com/cli/cli) |
 | | [github-copilot-cli](https://www.npmjs.com/package/@githubnext/github-copilot-cli) |
 | Docker Tools 🐳 | [lazydocker](https://github.com/jesseduffield/lazydocker) |
+| | [ctop](https://github.com/bcicen/ctop) |
 | Fuzzy Finders 🔍 | [fzf](https://github.com/junegunn/fzf) |
 | | [television](https://github.com/alexpasmantier/television) |
 | Terminal Multiplexers 🖥️ | [tmux](https://github.com/tmux/tmux) |
